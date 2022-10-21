@@ -8,5 +8,5 @@ Repositorio de avances en lecciones en learn.unity.com
 ## 
 ## ***UNIDAD 2***
 * [Unidad 3 Leccion 3:]
-https://github.com/oipihamed/Unity-UTNG/tree/main/U3_Leccion3_Export
+(https://github.com/oipihamed/Unity-UTNG/tree/main/U3_Leccion3_Export)
 ## 
