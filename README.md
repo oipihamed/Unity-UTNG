@@ -20,4 +20,4 @@ Repositorio de avances en lecciones en learn.unity.com
 ## ***UNIDAD 5***
 * [Unidad 5 - Leccion 5](https://github.com/oipihamed/Unity-UTNG/tree/main/Unidad5_Leccion5_Export)
 * [Unidad 5 - Desafio 5](https://github.com/oipihamed/Unity-UTNG/tree/main/Unidad5_Desafio5_Export)
-*[Unidad 5 - Prueba](https://user-images.githubusercontent.com/72763508/197308001-bf168f08-9fcc-46b3-900f-8cba91b459d4.png)
+* [Unidad 5 - Prueba](https://user-images.githubusercontent.com/72763508/197308001-bf168f08-9fcc-46b3-900f-8cba91b459d4.png)
