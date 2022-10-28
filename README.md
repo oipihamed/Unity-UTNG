@@ -24,7 +24,7 @@ Repositorio de avances en lecciones en learn.unity.com
 - Pantallas de Juego
 - Plan de creación de VideoJuego.
 
-## **LINKS**
+## Links
 ## ***UNIDAD 1***
  * [Unidad 1 - Leccion 1](https://github.com/oipihamed/Unity-UTNG/tree/main/Unidad1_Leccion%201)
 * [Unidad 1 - Laboratorio 1](https://github.com/oipihamed/Unity-UTNG/tree/main/Unidad1_Laboratorio1)
