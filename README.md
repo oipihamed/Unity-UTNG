@@ -7,7 +7,7 @@ Repositorio de avances en lecciones en learn.unity.com
 ## Contenido
 
 - [Introducción](#introducción)
-- [Código Fuente](#**LINKS**)
+- [Código Fuente](#links)
 - [Planificación](#planificación)
 - [Autores](#autores)
 - [Copyright](#copyright)
