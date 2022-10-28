@@ -3,6 +3,27 @@
 Repositorio de avances en lecciones en learn.unity.com
 ##
 ##
+
+## Contenido
+
+- [Introducción](#introducción)
+- [Código Fuente](#código-fuente)
+- [Planificación](#planificación)
+- [Autores](#autores)
+- [Copyright](#copyright)
+
+
+## Introducción
+
+- Nombre del proyecto
+- Objetivo.
+- Plataforma ,Género, Clasificación, Personajes, Escenario.
+- Historia
+- Personajes
+- Reglas de Juego.
+- Pantallas de Juego
+- Plan de creación de VideoJuego.
+
 ## **L I N K S**
 ## ***UNIDAD 1***
  * [Unidad 1 - Leccion 1](https://github.com/oipihamed/Unity-UTNG/tree/main/Unidad1_Leccion%201)
