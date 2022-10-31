@@ -32,14 +32,14 @@ Belfegor: Demonio y jefe final del cuarto nivel.
 Azazel: Demonio y jefe final del tercer nivel.
 Lilith: Demonio y jefe final del ultimo nivel.
 - Reglas de Juego.
-Mecanica de juego: El jugador y los enemigos tendran un contador de vida entre 40 a 100, al ser ataco o atacar dicho contador disminuira, si el contador de los enemigos llega a 0 mueren y si el contador del jugador llega a 0 se termina el juego. El jugador podra atacar a los enemigos mediante una espada con 3 diferentes tipos de ataque. El jugador podra correr, caminar y saltar por el terreno. Durante el juego apareceran enemigos aleatorios en el mapa , los cuales deberan ser eliminados para que aparezca el jefe final, al eliminar un enemigo se otorga experiencia al jugador la cual podra ser acumalada y al cumplir con el requerimiento para subir de nivel se aumentara las estadisticas del personaje, cuando pasas cerca de un enemigo este reaccionara y comenzara a buscar al jugador y atacarlo. Durante el juego apareceran cofres aleatorios en el mapa, al abrirlo aparecera una arma aleatoria la cual podra ser tomada. Finalmente un nivel termina cuando el jugador destruye al jefe final. 
-Vista: Tercera persona.
-Caracteristicas adicionales
-El daño esta definido por las caracteristicas de: Fuerza, Dureza, Daño de arma y tipo de ataque.
+*Mecanica de juego: El jugador y los enemigos tendran un contador de vida entre 40 a 100, al ser ataco o atacar dicho contador disminuira, si el contador de los enemigos llega a 0 mueren y si el contador del jugador llega a 0 se termina el juego. El jugador podra atacar a los enemigos mediante una espada con 3 diferentes tipos de ataque. El jugador podra correr, caminar y saltar por el terreno. Durante el juego apareceran enemigos aleatorios en el mapa , los cuales deberan ser eliminados para que aparezca el jefe final, al eliminar un enemigo se otorga experiencia al jugador la cual podra ser acumalada y al cumplir con el requerimiento para subir de nivel se aumentara las estadisticas del personaje, cuando pasas cerca de un enemigo este reaccionara y comenzara a buscar al jugador y atacarlo. Durante el juego apareceran cofres aleatorios en el mapa, al abrirlo aparecera una arma aleatoria la cual podra ser tomada. Finalmente un nivel termina cuando el jugador destruye al jefe final. 
+*Vista: Tercera persona.
+*Caracteristicas adicionales
+*El daño esta definido por las caracteristicas de: Fuerza, Dureza, Daño de arma y tipo de ataque.
 La velocidad de ataque y movimiento estan definidas por las caracteristicas de: Agilidad.
-Vida: Contador que aumenta con nivel, valor inicial 40, valor final 100.
-UI: Barra de vida, Barra de vida de enemigo.
-Controles. Los controles del juego son los siguientes:
+*Vida: Contador que aumenta con nivel, valor inicial 40, valor final 100.
+*UI: Barra de vida, Barra de vida de enemigo.
+*Controles. Los controles del juego son los siguientes:
 Cambio de posicion de ataque a pasiva: Tab.
 Salto: Espacio.
 Girar: Flechas izquierda y derecha.
@@ -49,7 +49,7 @@ En posicion pasiva tomar objeto o abrir cofre: E.
 En posicion ataque Ataque 1: E.
 En posicion ataque Araque 2: R.
 En posicion ataque Araque 3: T.
-Sonidos. El juego contara con sonidos para las siguientes acciones:
+*Sonidos. El juego contara con sonidos para las siguientes acciones:
 Salto.
 Ataque 1.
 Ataque 2.
@@ -59,7 +59,7 @@ Posicion de ataque, correr y caminar.
 Posicion pasiva, correr y atacar.
 Ataque ligero.
 Araque pesado.
-Animaciones. El juego contara con animaciones para las siguientes acciones:
+*Animaciones. El juego contara con animaciones para las siguientes acciones:
 Salto.
 Ataque 1.
 Ataque 2.
@@ -70,8 +70,8 @@ Posicion pasiva, correr y atacar.
 Ataque ligero.
 Araque pesado.
 - Pantallas de Juego
-![Captura de pantalla 2022-10-30 190849](https://user-images.githubusercontent.com/72763508/198912285-9e0511ee-2a78-47c4-a4ec-d6cafd07eafd.png)
-![Captura de pantalla 2022-10-30 191037](https://user-images.githubusercontent.com/72763508/198912287-d1aefe49-9a4d-4793-a4f3-101a49e0fcec.png)
+*![Captura de pantalla 2022-10-30 190849](https://user-images.githubusercontent.com/72763508/198912285-9e0511ee-2a78-47c4-a4ec-d6cafd07eafd.png)
+*![Captura de pantalla 2022-10-30 191037](https://user-images.githubusercontent.com/72763508/198912287-d1aefe49-9a4d-4793-a4f3-101a49e0fcec.png)
 - Plan de creación de VideoJuego.
 
 ## Links
