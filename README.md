@@ -78,7 +78,7 @@ Araque pesado.
 * ![Captura de pantalla 2022-10-30 190849](https://user-images.githubusercontent.com/72763508/198912285-9e0511ee-2a78-47c4-a4ec-d6cafd07eafd.png)
 * ![Captura de pantalla 2022-10-30 191037](https://user-images.githubusercontent.com/72763508/198912287-d1aefe49-9a4d-4793-a4f3-101a49e0fcec.png)
 ##  Plan de creación de VideoJuego.
-* [Planeacion - Trello] https://trello.com/invite/b/KI9FAcd3/ATTIe0e6155a6310f3cf63fde971bc8a3947607AE2E8/kingsland
+* [Planeacion - Trello] (https://trello.com/invite/b/KI9FAcd3/ATTIe0e6155a6310f3cf63fde971bc8a3947607AE2E8/kingsland)
 ## Links
 ## ***UNIDAD 1***
  * [Unidad 1 - Leccion 1](https://github.com/oipihamed/Unity-UTNG/tree/main/Unidad1_Leccion%201)
