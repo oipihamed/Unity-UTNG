@@ -77,7 +77,7 @@ Araque pesado.
 ***
 * ![Captura de pantalla 2022-10-30 190849](https://user-images.githubusercontent.com/72763508/198912285-9e0511ee-2a78-47c4-a4ec-d6cafd07eafd.png)
 * ![Captura de pantalla 2022-10-30 191037](https://user-images.githubusercontent.com/72763508/198912287-d1aefe49-9a4d-4793-a4f3-101a49e0fcec.png)
-*  Plan de creación de VideoJuego.
+##  Plan de creación de VideoJuego.
 
 ## Links
 ## ***UNIDAD 1***
