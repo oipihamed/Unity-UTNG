@@ -106,3 +106,5 @@ Araque pesado.
 * [Unidad 5 - Prueba](https://user-images.githubusercontent.com/72763508/197308001-bf168f08-9fcc-46b3-900f-8cba91b459d4.png)
 ## ***Juego***
 * [Juego KingLand](https://drive.google.com/file/d/18jq5INqb9p51ZlQBGHbTS6GI5TIsLEG_/view?usp=share_link)
+## ** Depliegue Juego**
+* [Juego de Escritorio](https://drive.google.com/file/d/1SKfWxN-mGS9Y3sphNRpRQmFXsBTtay8n/view?usp=share_link)
